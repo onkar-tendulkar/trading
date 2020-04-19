@@ -1,4 +1,4 @@
-package com.onkar.trading.trading;
+package com.onkar.trading;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

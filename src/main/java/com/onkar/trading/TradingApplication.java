@@ -1,4 +1,4 @@
-package com.onkar.trading.trading;
+package com.onkar.trading;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
